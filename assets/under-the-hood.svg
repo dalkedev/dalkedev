@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Under the hood</title>
+  <desc id="desc">An editorial banner for Mateusz Dalke. Bold lettering beside a technical line drawing of a motorcycle.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.9" fill="#c6cbbf"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="380" fill="#f0f0e7"/>
+  <rect x="692" width="508" height="380" fill="url(#grid)"/>
+  <path d="M0 0H11V380H0Z" fill="#f04b2d"/>
+  <g fill="#1d2923" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="57" y="52" font-size="16" font-weight="650" letter-spacing="3.4">MATEUSZ DALKE / DALKEDEV.PL</text>
+    <text x="51" y="166" font-size="103" font-weight="800" letter-spacing="-6">UNDER</text>
+    <text x="51" y="265" font-size="103" font-weight="800" letter-spacing="-6">THE HOOD.</text>
+    <text x="58" y="335" font-size="16" letter-spacing="0.3">BACKEND DEVELOPMENT &amp; CURIOUS DETOURS</text>
+  </g>
+  <g transform="translate(696 64)">
+    <path d="M37 257H449" stroke="#c0c7bb" stroke-width="1"/>
+    <g fill="none" stroke="#1d2923" stroke-linejoin="round" stroke-linecap="round">
+      <circle cx="91" cy="207" r="50" stroke-width="8"/>
+      <circle cx="91" cy="207" r="34" stroke-width="1.5"/>
+      <circle cx="91" cy="207" r="5" stroke-width="3"/>
+      <circle cx="366" cy="207" r="50" stroke-width="8"/>
+      <circle cx="366" cy="207" r="34" stroke-width="1.5"/>
+      <circle cx="366" cy="207" r="5" stroke-width="3"/>
+      <path d="M91 207 173 143 213 207Z" stroke-width="4"/>
+      <path d="M173 143 283 137 213 207" stroke-width="4"/>
+      <path d="M213 207H263L294 156" stroke-width="4"/>
+      <path d="M312 103 366 207M324 103 376 199" stroke-width="4"/>
+      <path d="M312 103 300 72H279" stroke-width="5"/>
+      <path d="M316 101 339 91 350 103 341 123 323 119" stroke-width="3"/>
+      <path d="M283 137 307 117" stroke-width="3"/>
+      <path d="M58 139 99 136 152 147" stroke-width="4"/>
+      <path d="M64 145 91 169M58 139 50 150" stroke-width="3"/>
+      <path d="M72 173C91 165 114 170 132 189M326 176C347 159 373 160 393 175" stroke-width="3"/>
+      <path d="M207 161 228 180 246 158 260 181 242 205H215L199 184Z" stroke-width="3"/>
+      <path d="M210 174 221 183M208 182 219 191M244 174 252 182M239 181 247 189" stroke-width="2"/>
+      <circle cx="229" cy="200" r="14" stroke-width="3" fill="#f0f0e7"/>
+      <path d="M243 205 282 222 315 222" stroke-width="5"/>
+      <path d="M264 190 282 213 322 213" stroke-width="2"/>
+      <path d="M182 155 169 188M189 158 178 191" stroke-width="3"/>
+      <path d="M91 207 213 207" stroke-width="1.5" stroke-dasharray="4 5"/>
+      <path d="M198 222 179 245" stroke-width="3"/>
+    </g>
+    <path d="M174 140C180 121 198 110 220 107L257 111 284 132 275 147 230 149 203 141Z" fill="#f04b2d" stroke="#1d2923" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M191 123C208 115 228 114 243 117" stroke="#f0f0e7" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M102 130H164L181 141H111L93 136Z" fill="#1d2923"/>
+    <g fill="none" stroke="#7c897e" stroke-width="1">
+      <path d="M229 107V46H181M294 143H426V116M229 217V285H280"/>
+      <circle cx="229" cy="107" r="4" fill="#f0f0e7"/>
+      <circle cx="294" cy="143" r="4" fill="#f0f0e7"/>
+      <circle cx="229" cy="217" r="4" fill="#f0f0e7"/>
+    </g>
+    <g fill="#657366" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.1">
+      <text x="53" y="49">01 / INPUT</text>
+      <text x="355" y="105">02 / FLOW</text>
+      <text x="291" y="289">03 / OUTPUT</text>
+    </g>
+  </g>
+</svg>
