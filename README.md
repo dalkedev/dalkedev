@@ -18,7 +18,7 @@ A desktop HTTP(S) debugger for looking inside the conversation between an app an
 
 **Rust · Tauri · React · TypeScript · SQLite**
 
-[Alpha downloads](https://github.com/SculptTechProject/scope/releases) · [How it works](https://github.com/SculptTechProject/scope/blob/main/docs/ARCHITECTURE.md)
+[Downloads](https://github.com/SculptTechProject/scope/releases) · [How it works](https://github.com/SculptTechProject/scope/blob/main/docs/ARCHITECTURE.md)
 
 ### [game-server ↗](https://github.com/SculptTechProject/game-server)
 
