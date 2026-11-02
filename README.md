@@ -38,8 +38,6 @@ A native macOS notch companion that keeps focus sessions, Spotify, coding-agent 
 - **Systems in motion:** concurrent services, live events, and the state between them.
 - **Tools that explain themselves:** inspectable traffic, clear diagnostics, and less guesswork.
 
-My work spans **C# / .NET, Java / Spring Boot, TypeScript / Node.js, and Go**. I also build the interface when a project needs one.
+My work spans **Java / Spring Boot, TypeScript / Node.js, and Go**. I also build the interface when a project needs one.
 
 ---
-
-Away from the keyboard: Japanese motoring and the gym.
