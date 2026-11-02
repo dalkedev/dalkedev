@@ -18,3 +18,13 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠻⢿⡿⡇⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣜⣽⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠋⠙⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+<!-- scope-project:start -->
+## Open-source projects
+
+### [Scope](https://github.com/SculptTechProject/scope)
+
+A desktop HTTP(S) debugger built with Rust and Tauri: inspect and edit traffic, keep local capture sessions, connect Android apps through ADB/Frida, and give an MCP client access to explicitly shared evidence.
+
+[Repository](https://github.com/SculptTechProject/scope) · [Alpha downloads](https://github.com/SculptTechProject/scope/releases) · [Screenshots](https://github.com/SculptTechProject/scope/blob/main/docs/SCREENSHOTS.md)
+<!-- scope-project:end -->
