@@ -22,11 +22,13 @@ A desktop HTTP(S) debugger for looking inside the conversation between an app an
 
 ### [Szpont Engine ↗](https://github.com/dalkedev/szpont-engine)
 
+<a href="https://github.com/dalkedev/szpont-engine"><img src="https://raw.githubusercontent.com/dalkedev/szpont-engine/main/assets/brand/logo.png" alt="Szpont Engine logo" width="72" height="72"></a>
+
 A self-hosted agent engine for working from private Discord threads. Each thread resumes its own Codex session, with a durable SQLite queue, explicit recovery after interruptions, and Markdown memory kept in a separate private workspace. An optional Camoufox bridge provides browser tools over local MCP.
 
 **TypeScript · Node.js · SQLite · Python · Camoufox · MCP**
 
-[Architecture](https://github.com/dalkedev/szpont-engine/blob/main/docs/architecture.md) · [Why a timeout is not a failed action](https://github.com/dalkedev/szpont-engine/blob/main/docs/articles/a-timeout-is-not-a-failure.md)
+[Documentation](https://github.com/dalkedev/szpont-engine/blob/main/docs/index.md) · [Architecture](https://github.com/dalkedev/szpont-engine/blob/main/docs/architecture.md)
 
 ### [game-server ↗](https://github.com/SculptTechProject/game-server)
 
