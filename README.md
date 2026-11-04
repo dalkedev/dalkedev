@@ -20,7 +20,7 @@ A desktop HTTP(S) debugger for looking inside the conversation between an app an
 
 [Downloads](https://github.com/SculptTechProject/scope/releases) · [How it works](https://github.com/SculptTechProject/scope/blob/main/docs/ARCHITECTURE.md)
 
-### [Szpont Engine ↗](https://github.com/dalkedev/szpont-engine)
+### [szpont-engine ↗](https://github.com/dalkedev/szpont-engine)
 
 <a href="https://github.com/dalkedev/szpont-engine"><img src="https://raw.githubusercontent.com/dalkedev/szpont-engine/main/assets/brand/logo.png" alt="Szpont Engine logo" width="72" height="72"></a>
 
