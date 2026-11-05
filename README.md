@@ -12,13 +12,15 @@ I build APIs, developer tools, and applications with a lot happening behind the 
 
 ## Selected work
 
-### [Scope ↗](https://github.com/SculptTechProject/scope)
+### [Scope ↗](https://github.com/dalkedev/scope)
+
+<a href="https://github.com/dalkedev/scope"><img src="assets/scope-logo.png" alt="Scope logo" width="72" height="72"></a>
 
 A desktop HTTP(S) debugger for looking inside the conversation between an app and its API. Capture and edit traffic, revisit saved sessions, connect Android apps, and share selected evidence with an MCP client.
 
 **Rust · Tauri · React · TypeScript · SQLite**
 
-[Downloads](https://github.com/SculptTechProject/scope/releases) · [How it works](https://github.com/SculptTechProject/scope/blob/main/docs/ARCHITECTURE.md)
+[Downloads](https://github.com/dalkedev/scope/releases) · [How it works](https://github.com/dalkedev/scope/blob/main/docs/ARCHITECTURE.md)
 
 ### [szpont-engine ↗](https://github.com/dalkedev/szpont-engine)
 
