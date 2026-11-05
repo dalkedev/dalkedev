@@ -8,7 +8,7 @@
 
 I build APIs, developer tools, and applications with a lot happening behind the interface. My projects tend to follow the same curiosity: where does a request go, how does state change, and what happens when something breaks?
 
-[Website](https://www.dalkedev.pl/) · [LinkedIn](https://www.linkedin.com/in/mateusz-dalke/) · [Email](mailto:dalke.dev@gmail.com)
+[Website](https://www.dalkedev.pl/) · [LinkedIn](https://www.linkedin.com/in/mateusz-dalke/) · [X](https://x.com/OGmdalke) · [Email](mailto:dalke.dev@gmail.com)
 
 ## Selected work
 
