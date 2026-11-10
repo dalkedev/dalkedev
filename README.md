@@ -1,22 +1,26 @@
 <p>
-  <img src="assets/under-the-hood.svg" alt="Under the hood — backend development and a technical motorcycle sketch" width="100%">
+  <a href="https://www.dalkedev.pl/"><img src="assets/mateusz-community.png" alt="Mateusz Dalke. Making cool things on the internet. Blef, Scope, Szpont and Broschy." width="100%"></a>
 </p>
 
-# Mateusz Dalke
+# Hey, I'm Mateusz.
 
-**Backend developer · Bydgoszcz, Poland**
+I make things for the internet: games to play with friends, tools to poke around with, and experiments that turn into real projects.
 
-I build APIs, developer tools, and applications with a lot happening behind the interface. My projects tend to follow the same curiosity: where does a request go, how does state change, and what happens when something breaks?
+Try something, look through the code, or come say hi. Ideas and weird bug reports are welcome.
 
-[Website](https://www.dalkedev.pl/) · [LinkedIn](https://www.linkedin.com/in/mateusz-dalke/) · [X](https://x.com/OGmdalke) · [Email](mailto:dalke.dev@gmail.com)
+[My corner of the internet](https://www.dalkedev.pl/) · [Find me on X](https://x.com/OGmdalke) · [Join HTL on Discord](https://discord.gg/SVPwBs8GQh)
 
-## Selected work
+## Come hang out
+
+**[HTL](https://discord.gg/SVPwBs8GQh)** is my community around programming, cybersecurity, and AI. Bring a project, a question, or something you want to figure out. I'm also building SzpontHTL for the community, with technical news, practice challenges, and a human Code Review Clinic.
+
+## Things I've made
 
 ### [Blef ↗](https://playblef.com)
 
 <a href="https://playblef.com"><img src="assets/blef-sign.png" alt="Blef’s peach and mint mascots holding a wooden playblef.com sign." width="640"></a>
 
-A free browser party game for 3-8 friends. Share a true or invented story, call each other’s bluffs, and reveal the answers together. Private rooms, real-time play, and Polish and English interfaces, with no account or installation.
+A free browser party game for 3-8 friends. Tell a true or made-up story, vote on each other's bluffs, and reveal the answers together. Private rooms, chat, reactions, and a little table-tug duel while you wait for the crew. In Polish and English, with no account or installation.
 
 **TypeScript · Next.js · NestJS · Socket.IO**
 
@@ -42,24 +46,25 @@ A self-hosted agent engine for working from private Discord threads. Each thread
 
 [Documentation](https://github.com/dalkedev/szpont-engine/blob/main/docs/index.md) · [Architecture](https://github.com/dalkedev/szpont-engine/blob/main/docs/architecture.md)
 
-### [game-server ↗](https://github.com/SculptTechProject/game-server)
+### [game-server ↗](https://github.com/dalkedev/game-server)
 
 A multiplayer lobby and game prototype: rooms, player sessions, and live movement over WebSockets. A small world for exploring concurrency, shared state, and event delivery.
 
 **Go · PostgreSQL · Redis · WebSockets**
 
-### [Broschy ↗](https://github.com/SculptTechProject/Broschy)
+### [Broschy ↗](https://github.com/dalkedev/Broschy)
 
 A native macOS notch companion that keeps focus sessions, Spotify, coding-agent activity, and build signals within reach. A detour into making everyday tools feel at home on the desktop.
 
 **Swift · SwiftUI · AppKit**
 
-## What I like working on
+## More experiments
 
-- **The request lifecycle:** APIs, queues, persistence, and useful failure handling.
-- **Systems in motion:** concurrent services, live events, and the state between them.
-- **Tools that explain themselves:** inspectable traffic, clear diagnostics, and less guesswork.
+- **[dummysensors](https://github.com/dalkedev/dummysensors):** simulated sensor signals for Python projects and the command line.
+- **[wakacjepl-scraper](https://github.com/dalkedev/wakacjepl-scraper):** an educational project exploring travel-offer data and price history with Bun, TypeScript, and SQLite.
 
-My work spans **Java / Spring Boot, TypeScript / Node.js, and Go**. I also build the interface when a project needs one.
+Some projects become useful tools. Some stay experiments. They're all part of figuring things out by making them.
 
 ---
+
+[Say hi on X](https://x.com/OGmdalke) · [Email me](mailto:dalke.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateusz-dalke/)
