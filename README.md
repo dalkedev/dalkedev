@@ -12,6 +12,16 @@ I build APIs, developer tools, and applications with a lot happening behind the 
 
 ## Selected work
 
+### [Blef ↗](https://playblef.com)
+
+<a href="https://playblef.com"><img src="https://playblef.com/social/blef-og-en.png" alt="Blef: good stories, shameless bluffs. A browser party game for 3–8 friends." width="100%"></a>
+
+A free browser party game for 3–8 friends. Share a true or invented story, call each other’s bluffs, and reveal the answers together. Private rooms, real-time play, and Polish and English interfaces, with no account or installation.
+
+**TypeScript · Next.js · NestJS · Socket.IO**
+
+[Play Blef](https://playblef.com) · [Game rules](https://playblef.com/zasady)
+
 ### [Scope ↗](https://github.com/dalkedev/scope)
 
 <a href="https://github.com/dalkedev/scope"><img src="assets/scope-logo.png" alt="Scope logo" width="72" height="72"></a>
