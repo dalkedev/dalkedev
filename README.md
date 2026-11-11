@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.dalkedev.pl/"><img src="assets/mateusz-community.png" alt="Mateusz Dalke. Making cool things on the internet. Blef, Scope, Szpont and Broschy." width="100%"></a>
+  <a href="https://www.dalkedev.pl/"><img src="assets/mateusz-community.png" alt="Mateusz Dalke. Making cool things on the internet. Blef, Scope, Plompy and Broschy." width="100%"></a>
 </p>
 
 **[Visit dalkedev.pl ↗](https://www.dalkedev.pl/)**  
@@ -39,15 +39,15 @@ A desktop HTTP(S) debugger for looking inside the conversation between an app an
 
 [Downloads](https://github.com/dalkedev/scope/releases) · [How it works](https://github.com/dalkedev/scope/blob/main/docs/ARCHITECTURE.md)
 
-### [szpont-engine ↗](https://github.com/dalkedev/szpont-engine)
+### [plompy-engine ↗](https://github.com/dalkedev/plompy-engine)
 
-<a href="https://github.com/dalkedev/szpont-engine"><img src="https://raw.githubusercontent.com/dalkedev/szpont-engine/main/assets/brand/logo.png" alt="Szpont Engine logo" width="72" height="72"></a>
+<a href="https://github.com/dalkedev/plompy-engine"><img src="https://raw.githubusercontent.com/dalkedev/plompy-engine/main/assets/brand/logo.png" alt="Plompy Engine logo" width="72" height="72"></a>
 
 A self-hosted agent engine for working from private Discord threads. Each thread resumes its own Codex session, with a durable SQLite queue, explicit recovery after interruptions, and Markdown memory kept in a separate private workspace. An optional Camoufox bridge provides browser tools over local MCP.
 
 **TypeScript · Node.js · SQLite · Python · Camoufox · MCP**
 
-[Documentation](https://github.com/dalkedev/szpont-engine/blob/main/docs/index.md) · [Architecture](https://github.com/dalkedev/szpont-engine/blob/main/docs/architecture.md)
+[Documentation](https://github.com/dalkedev/plompy-engine/blob/main/docs/index.md) · [Architecture](https://github.com/dalkedev/plompy-engine/blob/main/docs/architecture.md)
 
 ### [Broschy ↗](https://github.com/dalkedev/Broschy)
 
