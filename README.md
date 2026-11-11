@@ -49,13 +49,9 @@ A self-hosted agent engine for working from private Discord threads. Each thread
 
 [Documentation](https://github.com/dalkedev/szpont-engine/blob/main/docs/index.md) · [Architecture](https://github.com/dalkedev/szpont-engine/blob/main/docs/architecture.md)
 
-### [game-server ↗](https://github.com/dalkedev/game-server)
-
-A multiplayer lobby and game prototype: rooms, player sessions, and live movement over WebSockets. A small world for exploring concurrency, shared state, and event delivery.
-
-**Go · PostgreSQL · Redis · WebSockets**
-
 ### [Broschy ↗](https://github.com/dalkedev/Broschy)
+
+<a href="https://github.com/dalkedev/Broschy"><img src="https://raw.githubusercontent.com/dalkedev/Broschy/main/docs/assets/app-icon.png" alt="Broschy logo" width="72" height="72"></a>
 
 A native macOS notch companion that keeps focus sessions, Spotify, coding-agent activity, and build signals within reach. A detour into making everyday tools feel at home on the desktop.
 
@@ -63,6 +59,7 @@ A native macOS notch companion that keeps focus sessions, Spotify, coding-agent 
 
 ## More experiments
 
+- **[game-server](https://github.com/dalkedev/game-server):** a multiplayer lobby and game prototype with rooms, player sessions, and live movement over WebSockets. Built with Go, PostgreSQL, and Redis.
 - **[dummysensors](https://github.com/dalkedev/dummysensors):** simulated sensor signals for Python projects and the command line.
 - **[wakacjepl-scraper](https://github.com/dalkedev/wakacjepl-scraper):** an educational project exploring travel-offer data and price history with Bun, TypeScript, and SQLite.
 
