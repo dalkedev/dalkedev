@@ -2,6 +2,9 @@
   <a href="https://www.dalkedev.pl/"><img src="assets/mateusz-community.png" alt="Mateusz Dalke. Making cool things on the internet. Blef, Scope, Szpont and Broschy." width="100%"></a>
 </p>
 
+**[Visit dalkedev.pl ↗](https://www.dalkedev.pl/)**  
+Explore my projects and experiments.
+
 # Hey, I'm Mateusz.
 
 I make things for the internet: games to play with friends, tools to poke around with, and experiments that turn into real projects.
