@@ -67,4 +67,4 @@ Some projects become useful tools. Some stay experiments. They're all part of fi
 
 ---
 
-[Say hi on X](https://x.com/OGmdalke) · [Email me](mailto:dalke.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateusz-dalke/)
+[Say hi on X](https://x.com/OGmdalke) · [Email me](mailto:dalke.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mateusz-dalke/) · [Buy me a coffee](https://buymeacoffee.com/dalkedev)
