@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.dalkedev.pl/"><img src="assets/mateusz-community.png" alt="Mateusz Dalke. Making cool things on the internet. Blef, Scope, Plompy and Broschy." width="100%"></a>
+  <a href="https://www.dalkedev.pl/"><img src="assets/mateusz-community.png" alt="Mateusz Dalke. Making cool things on the internet. Blef, Snurpo, Plompy and Broschy." width="100%"></a>
 </p>
 
 **[Visit dalkedev.pl ↗](https://www.dalkedev.pl/)**  
@@ -29,15 +29,15 @@ A free browser party game for 3-8 friends. Tell a true or made-up story, vote on
 
 [Play Blef](https://playblef.com) · [Game rules](https://playblef.com/zasady)
 
-### [Scope ↗](https://github.com/dalkedev/scope)
+### [Snurpo ↗](https://github.com/dalkedev/snurpo)
 
-<a href="https://github.com/dalkedev/scope"><img src="assets/scope-logo.png" alt="Scope logo" width="72" height="72"></a>
+<a href="https://github.com/dalkedev/snurpo"><img src="assets/snurpo-banner.png" alt="Snurpo, a mint mascot with a huge lavender nose. A nosy little HTTP debugger. Capture, inspect, replay." width="640"></a>
 
-A desktop HTTP(S) debugger for looking inside the conversation between an app and its API. Capture and edit traffic, revisit saved sessions, connect Android apps, and share selected evidence with an MCP client.
+A nosy little HTTP debugger. Look inside the conversation between an app and its API. Capture and edit traffic, revisit saved sessions, connect Android apps, and share selected evidence with an MCP client.
 
 **Rust · Tauri · React · TypeScript · SQLite**
 
-[Downloads](https://github.com/dalkedev/scope/releases) · [How it works](https://github.com/dalkedev/scope/blob/main/docs/ARCHITECTURE.md)
+[Downloads](https://github.com/dalkedev/snurpo/releases) · [How it works](https://github.com/dalkedev/snurpo/blob/main/docs/ARCHITECTURE.md)
 
 ### [plompy-engine ↗](https://plompy.dev)
 
