@@ -29,15 +29,15 @@ A free browser party game for 3-8 friends. Tell a true or made-up story, vote on
 
 [Play Blef](https://playblef.com) · [Game rules](https://playblef.com/zasady)
 
-### [Snurpo ↗](https://github.com/dalkedev/snurpo)
+### [Snurpo ↗](https://snurpo.dev)
 
-<a href="https://github.com/dalkedev/snurpo"><img src="assets/snurpo-banner.png" alt="Snurpo, a mint mascot with a huge lavender nose. A nosy little HTTP debugger. Capture, inspect, replay." width="640"></a>
+<a href="https://snurpo.dev"><img src="assets/snurpo-sign.png" alt="Snurpo, the mint mascot with a huge lavender nose, holding a snurpo.dev sign." width="640"></a>
 
 A nosy little HTTP debugger. Look inside the conversation between an app and its API. Capture and edit traffic, revisit saved sessions, connect Android apps, and share selected evidence with an MCP client.
 
 **Rust · Tauri · React · TypeScript · SQLite**
 
-[Downloads](https://github.com/dalkedev/snurpo/releases) · [How it works](https://github.com/dalkedev/snurpo/blob/main/docs/ARCHITECTURE.md)
+[Website](https://snurpo.dev) · [Source](https://github.com/dalkedev/snurpo) · [Downloads](https://github.com/dalkedev/snurpo/releases) · [How it works](https://github.com/dalkedev/snurpo/blob/main/docs/ARCHITECTURE.md)
 
 ### [plompy-engine ↗](https://plompy.dev)
 
