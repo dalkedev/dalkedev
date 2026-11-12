@@ -43,11 +43,13 @@ A nosy little HTTP debugger. Look inside the conversation between an app and its
 
 <a href="https://plompy.dev"><img src="assets/plompy-sign.png" alt="Plompy, the orange fish mascot, with a plompy.dev sign." width="640"></a>
 
-A self-hosted agent engine for working from private Discord threads. Each thread resumes its own Codex session, with a durable SQLite queue, explicit recovery after interruptions, and Markdown memory kept in a separate private workspace. An optional Camoufox bridge provides browser tools over local MCP.
+A self-hosted agent engine with two ways to work. Private Discord threads keep their coding sessions, durable SQLite queue and Markdown memory. The **Plompy Local preview** adds a separate Docker MCP server for **Codex, Claude Code and OpenCode**: selected integrations, public-source research, email drafts and local file exports, without requiring Discord or a second agent.
 
-**TypeScript · Node.js · SQLite · Python · Camoufox · MCP**
+Want a self-hosted model too? Optionally configure **Ollama** as your chosen agent's model provider with a compatible, tool-capable model. Plompy provides the tools; the agent runs the conversation. See [Ollama setup and compatibility](https://plompy.dev/docs/ollama/) for requirements and verification limits.
 
-[Website](https://plompy.dev) · [Source](https://github.com/dalkedev/plompy-engine) · [Documentation](https://github.com/dalkedev/plompy-engine/blob/main/docs/index.md) · [Architecture](https://github.com/dalkedev/plompy-engine/blob/main/docs/architecture.md)
+**TypeScript · Node.js · Docker · MCP · SQLite · Playwright · Camoufox**
+
+[Website](https://plompy.dev) · [Source](https://github.com/dalkedev/plompy-engine) · [Documentation](https://plompy.dev/docs/) · [Run locally](https://plompy.dev/docs/quickstart/) · [Connect your agent](https://plompy.dev/docs/other-clients/)
 
 ### [Broschy ↗](https://github.com/dalkedev/Broschy)
 
