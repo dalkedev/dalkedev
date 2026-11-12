@@ -43,7 +43,7 @@ A nosy little HTTP debugger. Look inside the conversation between an app and its
 
 <a href="https://plompy.dev"><img src="assets/plompy-sign.png" alt="Plompy, the orange fish mascot, with a plompy.dev sign." width="640"></a>
 
-A self-hosted agent engine with two ways to work. Private Discord threads keep their coding sessions, durable SQLite queue and Markdown memory. The **Plompy Local preview** adds a separate Docker MCP server for **Codex, Claude Code and OpenCode**: selected integrations, public-source research, email drafts and local file exports, without requiring Discord or a second agent.
+A self-hosted agent engine with two ways to work. Private Discord threads keep their coding sessions, durable SQLite queue and Markdown memory. **Plompy Local** ships ready-made Docker images for a separate MCP server used by **Codex, Claude Code and OpenCode**: selected integrations, public-source research, email drafts and local file exports, without requiring Discord or a second agent.
 
 Want a self-hosted model too? Optionally configure **Ollama** as your chosen agent's model provider with a compatible, tool-capable model. Plompy provides the tools; the agent runs the conversation. See [Ollama setup and compatibility](https://plompy.dev/docs/ollama/) for requirements and verification limits.
 
