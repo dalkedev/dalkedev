@@ -39,7 +39,7 @@ A nosy little HTTP debugger. Look inside the conversation between an app and its
 
 [Website](https://snurpo.dev) · [Source](https://github.com/dalkedev/snurpo) · [Downloads](https://github.com/dalkedev/snurpo/releases) · [How it works](https://github.com/dalkedev/snurpo/blob/main/docs/ARCHITECTURE.md)
 
-### [plompy-engine ↗](https://plompy.dev)
+### [Plompy ↗](https://plompy.dev)
 
 <a href="https://plompy.dev"><img src="assets/plompy-sign.png" alt="Plompy, the orange fish mascot, with a plompy.dev sign." width="640"></a>
 
